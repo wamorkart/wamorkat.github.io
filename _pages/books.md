@@ -2,11 +2,18 @@
 layout: page
 permalink: /books/
 title: Books
-description: Place where I share books I recommend
+description: Books that I have read recently!
 nav: true
 nav_order: 3
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+{% for book in site.data.books %}
+  <li>
+      {{ book.title }}
+      <ul>
+        <li style="list-style: none;"> Writer - {{ book.writer }}</li>
+        <li style="list-style: none;"> <a href="{{ book.url }}">LINK</a></li>
+      </ul>     
+  </li>
+{% endfor %}
 
-Organize your courses by years, topics, or universities, however you like!
