@@ -1,7 +1,29 @@
-- title: "The Book of Everlasting Things"
-  writer: "Aanchal Malhotra"
-  url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+# - title: 
+#   writer: 
+#   url: 
+# Reference code - https://github.com/cagrimmett/jekyll-tools/tree/master/reading-list
+lastupdate: January 20, 2023
+list:
+  - year: 2023
+    books:
+    - title: "The Book of Everlasting Things"
+      writer: "Aanchal Malhotra"
+      url: https://www.goodreads.com/book/show/59808042-the-book-of-everlasting-things
 
-- title: "Book Test 2"
-  writer: "Aanchal Malhotra2"
-  url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+  - year: 2022
+    books:
+    - title: "Face to Face"
+      writer: "Ved Mehta"
+      url: https://www.goodreads.com/book/show/36290682-face-to-face
+
+    - title: "Klara And The Sun"
+      writer: "Kazuo Ishiguro"
+      url: https://www.goodreads.com/book/show/54120408-klara-and-the-sun
+
+    - title: "Not Without My Daughter"
+      writer: "Betty Mahmoody"
+      url: https://www.goodreads.com/book/show/43255.Not_Without_My_Daughter
+
+    - title: "The Code Breaker"
+      writer: "Walter Issacson"
+      url: https://www.goodreads.com/book/show/54968118-the-code-breaker
