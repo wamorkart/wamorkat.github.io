@@ -2,13 +2,13 @@
 layout: page
 permalink: /books/
 title: Books
-description:
+description: Last Updated Jan 20, 2023
 nav: true
 nav_order: 3
 ---
 <!-- # Reference code - https://github.com/cagrimmett/jekyll-tools/tree/master/reading-list -->
 <div class="container">
-  <div class="last-update">Last updated {{ site.data.books.lastupdate }}</div>
+  <!-- <div class="last-update">Last updated {{ site.data.books.lastupdate }}</div> -->
   {{ }}
   {% for entry in site.data.books.list %}
   <div class="year-container">
