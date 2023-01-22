@@ -4,3 +4,14 @@
 
 "PhysRev":
   url: https://journals.aps.org/
+
+"JINST":
+  url: https://jinst.sissa.it/jinst/help/helpLoader.jsp?pgType=about
+
+"CMS":
+  url: https://home.cern/science/experiments/cms
+  color: "#8B8000"
+
+"ATLAS":
+  url: https://home.cern/science/experiments/atlas
+  color: "#157CBC"
