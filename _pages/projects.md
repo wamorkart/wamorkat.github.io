@@ -3,7 +3,7 @@ layout: page
 title: Projects
 permalink: /projects/
 description: A collection of my past and present research projects
-nav: true
+nav: false
 nav_order: 2
 display_categories: [present, past]
 horizontal: false
