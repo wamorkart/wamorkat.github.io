@@ -2,7 +2,7 @@
 layout: page
 permalink: /books/
 title: Books
-description: Last Updated  April 1, 2023
+description: List of some books that I have read. (Last Updated  April 1, 2023)
 nav: true
 nav_order: 4
 ---
