@@ -6,9 +6,21 @@ lastupdate: ""
 list:
   - year: 2023
     books:
+    - title: "Three Body Problem"
+      writer: "Cixin Liu"
+      url: https://www.goodreads.com/book/show/20518872-the-three-body-problem
+
+    - title: "Home Fire"
+      writer: "Kamila Shamsie"
+      url: https://www.goodreads.com/en/book/show/33621427
+
     - title: "The Book of Everlasting Things"
       writer: "Aanchal Malhotra"
       url: https://www.goodreads.com/book/show/59808042-the-book-of-everlasting-things
+
+    - title: "Just for Fun: The Story of an Accidental Revolutionary"
+      writer: "Linus Torvalds, David Diamond"
+      url: https://www.goodreads.com/book/show/160171.Just_for_Fun
 
   - year: 2022
     books:
@@ -27,3 +39,99 @@ list:
     - title: "The Code Breaker"
       writer: "Walter Issacson"
       url: https://www.goodreads.com/book/show/54968118-the-code-breaker
+
+    - title: 
+      writer: 
+      url: 
+
+  - year: 2021
+    books:
+    - title:   Klara and The Sun
+      writer:   Kazuo Ishiguro
+      url:  https://www.goodreads.com/book/show/54120408-klara-and-the-sun
+
+    - title:  Not Without My Daughter
+      writer:  Betty Mahmoody
+      url: https://www.goodreads.com/book/show/43255.Not_Without_My_Daughter
+
+
+    - title:  Lincoln in the Bardo
+      writer:  George Saunders
+      url: https://www.goodreads.com/book/show/29906980-lincoln-in-the-bardo
+
+
+  - year: 2020
+    books:
+    - title:  Sula
+      writer:  Toni Morrison 
+      url: https://www.goodreads.com/book/show/11346.Sula
+
+    - title:  Beloved 
+      writer:  Toni Morrison 
+      url: https://www.goodreads.com/book/show/6149.Beloved
+
+
+    - title:  The Color Purple
+      writer:  Alice Walker
+      url:  https://www.goodreads.com/book/show/52892857-the-color-purple
+
+    - title:  The Lowland
+      writer:  Jhumpa Lahiri
+      url:  https://www.goodreads.com/book/show/17262100-the-lowland
+
+    - title:  The Goldfinch
+      writer:  Donna Tartt
+      url:  https://www.goodreads.com/book/show/17333223-the-goldfinch
+
+    - title:  Solaris
+      writer:  Stanisław Lem
+      url:  https://www.goodreads.com/book/show/95558.Solaris
+
+
+  - year: 2019
+    books:
+    - title: Half of a Yellow Sun
+      writer: Chimamanda Ngozi Adichie
+      url:  https://www.goodreads.com/book/show/18749.Half_of_a_Yellow_Sun
+
+    - title: "Persepolis: The Story of a Childhood"
+      writer: Marjane Satrapi
+      url: https://www.goodreads.com/book/show/9516.Persepolis
+
+    - title: "Perfume: The Story of a Murderer"
+      write: Patrick Süskind
+      url:  https://www.goodreads.com/book/show/343.Perfume
+
+
+    - title: Of Mice and Men
+      writer: John Steinbeck
+      url: https://www.goodreads.com/book/show/890.Of_Mice_and_Men
+
+
+    - title: Trick
+      writer: Domenico Starnone
+      url: https://www.goodreads.com/book/show/39006270-trick
+
+
+    - title:  Dear Ijeawele, or A Feminist Manifesto in Fifteen Suggestions
+      writer:  Chimamanda Ngozi Adichie
+      url:  https://www.goodreads.com/book/show/33585392-dear-ijeawele-or-a-feminist-manifesto-in-fifteen-suggestions
+
+
+    - title:  "The Mothers: A Novel"
+      writer:  Brit Bennett
+      url:  https://www.goodreads.com/book/show/28815371-the-mothers
+
+    - title:  Calypso
+      writer:  David Sedaris
+      url:  https://www.goodreads.com/book/show/38348476-calypso
+
+
+    - title:   "Outliers: The Story of Success"
+      writer:   Malcolm Gladwell
+      url:   https://www.goodreads.com/book/show/3228917-outliers
+
+
+    - title:  Sula
+      writer:  Toni Morrison
+      url:  https://www.goodreads.com/book/show/11346.Sula
