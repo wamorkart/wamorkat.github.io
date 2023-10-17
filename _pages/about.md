@@ -18,7 +18,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 Hello!
-I am an experimental particle physicist and a postdoctoral research associate at Argonne National Laboratory (ANL). My work is focused on the ATLAS experiment at CERN. My primary research interest is searching for physics beyond the Standard Model (SM). 
+I am an experimental particle physicist and a postddddoctoral research associate at Argonne National Laboratory (ANL). My work is focused on the ATLAS experiment at CERN. My primary research interest is searching for physics beyond the Standard Model (SM). 
 
 I’m especially interested in characterizing the known phenomena of the SM and hunting for contributions of new physics in rare SM processes. I am also currently working on the ATLAS experiment’s tracker upgrade for the High Luminosity LHC by assembling and testing the silicon-based modules which will constitute ATLAS’s upgraded pixel detector. 
 
