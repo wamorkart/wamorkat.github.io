@@ -6,6 +6,22 @@ lastupdate: ""
 list:
   - year: 2023
     books:
+    - title: "The Bride Groom"
+      writer: "Ha Jin"
+      url: https://goodreads.com/book/show/33561.The_Bridegroom
+    
+    - title: "Normal People"
+      writer: "Sally Rooney"
+      url: https://goodreads.com/book/show/18143977-all-the-light-we-cannot-see
+    
+    - title: "All The Lights We Cannot See"
+      writer: "Anothony Doerr"
+      url: https://www.goodreads.com/book/show/18143977-all-the-light-we-cannot-see
+
+    - title: "A Flight of Pigeons"
+      writer: "Ruskin Bond"
+      url: https://www.goodreads.com/en/book/show/475176
+
     - title: "Three Body Problem"
       writer: "Cixin Liu"
       url: https://www.goodreads.com/book/show/20518872-the-three-body-problem

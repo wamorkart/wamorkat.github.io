@@ -8,9 +8,9 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  address: >
-    <p>Argonne National Lab</p>
-    <p>Lemont, IL, USA.</p>
+  # address: >
+  #   <p>Argonne National Lab</p>
+  #   <p>Lemont, IL, USA.</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -18,11 +18,17 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 Hello!
-I am an experimental particle physicist and a postddddoctoral research associate at Argonne National Laboratory (ANL). My work is focused on the ATLAS experiment at CERN. My primary research interest is searching for physics beyond the Standard Model (SM). 
+I am an experimental particle physicist and a **postdoctoral research associate at Argonne National Laboratory**. My research is focused on the ATLAS experiment at CERN and I am primarily interested in searching for physics beyond the Standard Model. 
 
-I’m especially interested in characterizing the known phenomena of the SM and hunting for contributions of new physics in rare SM processes. I am also currently working on the ATLAS experiment’s tracker upgrade for the High Luminosity LHC by assembling and testing the silicon-based modules which will constitute ATLAS’s upgraded pixel detector. 
+I’m especially interested in characterizing the known phenomena of the SM and hunting for contributions of new physics in rare SM processes, such as the tri-boson WWW. I am also interested in silicon-based detector R&D and am currently working on the ATLAS experiment’s Inner Tracker upgrade for the High Luminosity LHC by assembling and testing silicon modules. 
 
-Prior to my current position, I worked as a PhD student with Toyoko Orimoto at Northeastern University’s CMS group. I developed and led a new search that utilized the Higgs boson as a probe for physics beyond SM. I also spent my time as a PhD student on the operation of the CMS Electromagnetic Calorimeter and on the timing upgrade of CMS.
+Prior to my current position, I obtained my Ph.D. in Physics with Prof. Toyoko Orimoto at Northeastern University’s CMS group. I developed and led a new CMS search that searched for the exotic decay of the Higgs boson into light pseudoscalars with four photons in the final state. I also spent my time as a PhD student on the operations of the CMS Electromagnetic Calorimeter and on the timing upgrade of CMS.
+
+
+Besides actively doing research on ATLAS, I am currently spending some time on learning ML techniques for physics and software tools to make my analyses efforts faster.
+
+**I am always happy to interact and collaborate on potential projects, ideas, and analyses**. Feel free to shoot me an email if you want to get in touch!
+
 
 <!-- Work in Progress. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
