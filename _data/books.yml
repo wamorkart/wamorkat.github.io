@@ -4,8 +4,26 @@
 # Reference code - https://github.com/cagrimmett/jekyll-tools/tree/master/reading-list
 lastupdate: ""
 list:
+  - year: 2024
+    books:
+    - title: "The Glass Hotel"
+      writer: "Emily St. John Mandel"
+      url: https://www.goodreads.com/book/show/45754981-the-glass-hotel
+
+    - title: "The Expatriates"
+      writer: "Janice Y.K. Lee"
+      url: https://www.goodreads.com/en/book/show/25387896
+    
+    - title: "Jonathan Livingston Seagull"
+      writer: "Richard Bach"
+      url: https://www.goodreads.com/en/book/show/71728
+
   - year: 2023
     books:
+    - title: "Waiting"
+      writer: "Ha Jin"
+      url: https://www.goodreads.com/book/show/235773.Waiting
+
     - title: "The Bride Groom"
       writer: "Ha Jin"
       url: https://goodreads.com/book/show/33561.The_Bridegroom

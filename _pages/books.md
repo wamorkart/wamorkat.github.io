@@ -2,7 +2,7 @@
 layout: page
 permalink: /books/
 title: Books
-description: I enjoy reading books and am documenting some recommendations here -- (Last Updated  October 15, 2023)
+description: I enjoy reading books and am documenting some recommendations here -- (Last Updated  January 28, 2024)
 nav: true
 nav_order: 4
 ---
