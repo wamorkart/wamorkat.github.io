@@ -18,7 +18,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 Hello!
-I am an experimental particle physicist and a **postdoctoral research associate at Argonne National Laboratory**. My research is focused on the ATLAS experiment at CERN and I am primarily interested in searching for physics beyond the Standard Model. 
+I am an experimental particle physicist and a **postdoctoral researcher at University of California Berkeley and Lawrence National Laboratory**. My research is focused on the ATLAS experiment at CERN and I am primarily interested in searching for physics beyond the Standard Model. 
 
 I’m especially interested in characterizing the known phenomena of the SM and hunting for contributions of new physics in rare SM processes, such as the tri-boson WWW. I am also interested in silicon-based detector R&D and am currently working on the ATLAS experiment’s Inner Tracker upgrade for the High Luminosity LHC by assembling and testing silicon modules. 
 
