@@ -18,14 +18,17 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 Hello!
-I am an experimental particle physicist and a **postdoctoral researcher at University of California Berkeley and Lawrence National Laboratory**. My research is focused on the ATLAS experiment at CERN and I am primarily interested in searching for physics beyond the Standard Model. 
+I’m a particle physicist and a postdoctoral researcher at the <a href="https://physics.berkeley.edu/">University of California, Berekeley</a> and in the <a href="https://www.physics.lbl.gov/machinelearning/">Machine Learning for Fundamental Physics group at the Lawrence National Laboratory</a>. Previously, I have been a postdoctoral researcher in the <a href="https://www.anl.gov/hep/atlas-at-the-the-large-hadron-collider-lhc">ATLAS group at Argonne National Laboratory</a> from October 2021 through May 2024. 
 
-I’m especially interested in characterizing the known phenomena of the SM and hunting for contributions of new physics in rare SM processes, such as the tri-boson WWW. I am also interested in silicon-based detector R&D and am currently working on the ATLAS experiment’s Inner Tracker upgrade for the High Luminosity LHC by assembling and testing silicon modules. 
+My work is centred at the development and application of machine learning based techniques and tools to discover new physics at the <a href="https://atlas.cern/">ATLAS</a> experiment at the <a href="https://www.home.cern/science/accelerators/large-hadron-collider">Large Hadron Collider</a>. 
+<!-- I am a particle physicist and a **postdoctoral researcher at University of California Berkeley and Lawrence National Laboratory**. My research is focused on the ATLAS experiment at CERN and I am primarily interested in searching for physics beyond the Standard Model through the lens of machine learning.  -->
 
-Prior to my current position, I obtained my Ph.D. in Physics with Prof. Toyoko Orimoto at Northeastern University’s CMS group. I developed and led a new CMS search that searched for the exotic decay of the Higgs boson into light pseudoscalars with four photons in the final state. I also spent my time as a PhD student on the operations of the CMS Electromagnetic Calorimeter and on the timing upgrade of CMS.
+<!-- I’m especially interested in characterizing the known phenomena of the SM and hunting for contributions of new physics in rare SM processes, such as the tri-boson WWW. I am also interested in silicon-based detector R&D and am currently working on the ATLAS experiment’s Inner Tracker upgrade for the High Luminosity LHC by assembling and testing silicon modules.  -->
+
+I obtained my Ph.D. in Physics in the high energy physics group at <a href="https://cos.northeastern.edu/physics/">Northeastern University</a>, supervised by Prof. Toyoko Orimoto. I developed and led a novel search for the exotic decay of the Higgs boson into light pseudoscalars with four photons in the final state on the CMS experiment. As a graduate student, I also specialized in the operation of the CMS Electromagnetic Calorimeter and the timing upgrade of CMS experiment for the high luminosity LHC era.
 
 
-Besides actively doing research on ATLAS, I am currently spending some time on learning ML techniques for physics and software tools to make my analyses efforts faster.
+<!-- Besides actively doing research on ATLAS, I am currently spending some time on learning ML techniques for physics and software tools to make my analyses efforts faster. -->
 
 **I am always happy to interact and collaborate on potential projects, ideas, and analyses**. Feel free to shoot me an email if you want to get in touch!
 
