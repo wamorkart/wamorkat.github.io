@@ -6,6 +6,15 @@ lastupdate: ""
 list:
   - year: 2024
     books:
+
+    - title: "Bad Blood"
+      writer: "John Carreyrou"
+      url: https://www.goodreads.com/book/show/37976541-bad-blood
+
+    - title: "Shoe Dog"
+      writer: "Phil Knight"
+      url: https://www.goodreads.com/book/show/27220736-shoe-dog
+
     - title: "The Glass Hotel"
       writer: "Emily St. John Mandel"
       url: https://www.goodreads.com/book/show/45754981-the-glass-hotel
